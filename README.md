@@ -1,5 +1,6 @@
 # kicad-trans_pwr
-Simple double power supply with transformer
+Simple Power Supply made by main transformer and voltage dubler.
+It generates +12V, -12V and +5V voltages with linear voltage generators.
 
 ![alt text](kicad-trans_pwr_3d.png)
 
